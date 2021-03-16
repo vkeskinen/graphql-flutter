@@ -16,6 +16,3 @@ export 'package:graphql/src/link/fetch_result.dart';
 export 'package:graphql/src/link/http/link_http.dart';
 export 'package:graphql/src/link/link.dart';
 export 'package:graphql/src/link/operation.dart';
-export 'package:graphql/src/link/web_socket/link_web_socket.dart';
-export 'package:graphql/src/socket_client.dart';
-export 'package:graphql/src/websocket/messages.dart';
